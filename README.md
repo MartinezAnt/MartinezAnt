@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartinezAnt
 - 👀 I’m interested in learning the fundamentals of web development and making friends along the way :)
-- 🌱 I’m currently learning through the Odin Project, and am excited to learn more about the digital world
+- 🌱 I’m currently learning through the Odin Project, and am extremely excited to progress. 
 - 📫 How to reach me- You can reach me at, Anthonywebdevving123@gmail.com or Discord- Anthonyy#1585
 
 <!---
